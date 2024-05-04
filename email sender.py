@@ -3,9 +3,9 @@ from app2 import password
 import ssl
 import smtplib
 
-email_sender = ' priyamjha2003@gmail.com'
+email_sender = ' sender@gmail.com'
 email_password = password
-email_receiver = 'pjstyle989@gmail.com'
+email_receiver = 'receiver@gmail.com'
 
 subject = "Dont forget to subscribe"
 body = """
